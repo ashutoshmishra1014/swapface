@@ -14,12 +14,12 @@ Instructions for execution:
 
 Sample output below:
 
-Head image:
-![](/ronaldo-statue.jpg){:height="200px" width="200px"}
-
-Face image:
-![](/tom-cruise.jpg){:height="200px" width="200px"}
-
-Output:
-![](/output-1.9.jpg){:height="200px" width="200px"}
-
+Head image:<br />
+![](/ronaldo-statue.jpg)
+<br />
+Face image:<br />
+![](/tom-cruise.jpg)
+<br />
+Output:<br />
+![](/output-1.9.jpg)
+<br />
