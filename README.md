@@ -12,3 +12,13 @@ Instructions for execution:
 4. check the output image with name output.jpg inside the current working directory
 
 
+Sample output below:
+
+Head image:
+[[./ronaldo-statue.jpg]]
+
+Face image:
+[[./tom-cruise.jpg]]
+
+Output:
+[[./output-1.9.jpg]]
