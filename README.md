@@ -15,6 +15,7 @@ Instructions for execution:
 Sample output below:
 
 Head image:
+<<<<<<< HEAD
 ![](/ronaldo-statue.jpg){:height='200px' width='200px'}
 
 Face image:
@@ -22,3 +23,12 @@ Face image:
 
 Output:
 ![](/output-1.9.jpg){:height='200px' width='200px'}
+=======
+![Ronaldo head image](ronaldo-statue.jpg)
+
+Face image:
+[[tom-cruise.jpg]]
+
+Output:
+[[output-1.9.jpg]]
+>>>>>>> 86a6d3c73a8477963ebd1727995aa9edd577c5c3
