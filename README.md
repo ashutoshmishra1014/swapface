@@ -15,7 +15,7 @@ Instructions for execution:
 Sample output below:
 
 Head image:
-[[ronaldo-statue.jpg]]
+![Ronaldo head image](ronaldo-statue.jpg)
 
 Face image:
 [[tom-cruise.jpg]]
