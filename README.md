@@ -15,11 +15,11 @@ Instructions for execution:
 Sample output below:
 
 Head image:
-![](/ronaldo-statue.jpg){:height='200px' width='200px'}
+![](/ronaldo-statue.jpg){:height="200px" width="200px"}
 
 Face image:
-![](/tom-cruise.jpg){:height='200px' width='200px'}
+![](/tom-cruise.jpg){:height="200px" width="200px"}
 
 Output:
-![](/output-1.9.jpg){:height='200px' width='200px'}
+![](/output-1.9.jpg){:height="200px" width="200px"}
 
