@@ -12,3 +12,13 @@ Instructions for execution:
 4. check the output image with name output.jpg inside the current working directory
 
 
+Sample output below:
+
+Head image:
+[[https://github.com/ashutoshmishra1014/swapface/ronaldo-statue.jpg]]
+
+Face image:
+[[https://github.com/ashutoshmishra1014/swapface/tom-cruise.jpg]]
+
+Output:
+[[https://github.com/ashutoshmishra1014/swapface/output-1.9.jpg]]
