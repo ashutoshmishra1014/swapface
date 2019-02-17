@@ -15,10 +15,10 @@ Instructions for execution:
 Sample output below:
 
 Head image:
-[[./ronaldo-statue.jpg]]
+[[ronaldo-statue.jpg]]
 
 Face image:
-[[./tom-cruise.jpg]]
+[[tom-cruise.jpg]]
 
 Output:
-[[./output-1.9.jpg]]
+[[output-1.9.jpg]]
